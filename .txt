@@ -1,0 +1,5 @@
+this is readme.txt file for information to 
+GIS my html web study practice
+that is v.9
+n inthis version this web contain two html pages with name study.html and hmtl.html 
+and has css file " body.css ,hmul.css, smul.css, div.hd.css 
