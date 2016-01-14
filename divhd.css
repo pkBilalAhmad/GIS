@@ -1,0 +1,9 @@
+div#hd{
+	text-shadow:3px 3px 9px black;
+	font-family:TIMES NEW ROMAN;
+	padding:5px;
+	font-style:italic;
+	color:black;
+	text-align:center;
+	background-color:#f1f1f1;
+}
