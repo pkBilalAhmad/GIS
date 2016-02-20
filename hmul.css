@@ -1,14 +1,12 @@
 ul.hm{
 	list-style-type:none;	
-	background-color:a1a1f1;
+	background-color:black;
 	margin:0px;
-	border:1px solid blue;
 }
 
 li.hm{
 	display:inline-block;
 	font-size:20px;
-	padding-right:20px;
 	letter-spacing:2px;
 }
 li a.hm{
@@ -16,7 +14,7 @@ li a.hm{
 	display:block;
 	color:white;
 	margin-left:5px;
-	padding:8px 8px 8px;
+	padding:10px 16px;
 	text-align:center;
 	font-style:oblique;
 }
